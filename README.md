@@ -9,6 +9,12 @@ Native, portable 32-bit Windows companion application for **World of Warcraft 3.
 Frosty Zugbonk offers a teleport catalog, movement controls, world tracking, game-client selection, and optional online information. The application works without an installer, registration, activation, or a required network connection. The core runtime is written in Go, using native Win32/GDI with no CGo or third-party Go dependencies.
 
 > Unofficial independent project. Not affiliated with or endorsed by Blizzard Entertainment. Using third-party tools with a game may be subject to the game's own rules and terms.
+> 
+## Features
+• Teleport Manager & Hacks: Instant XYZ coordinate teleportation across 1,042+ preset locations (cities, dungeons, raids, battlegrounds).
+• Movement Cheats: Adjustable run, fly, and swim speed multipliers, plus wall-climbing and no-clip toggles.
+• Multi-Client & Multibox Control: Manage multiple WoW 3.3.5a (12340) windows by character name or broadcast commands to all clients at once.
+• World Tracking: Full minimap tracking for creatures, herbs, veins, and objects.
 
 ## Build
 
