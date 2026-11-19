@@ -11,10 +11,18 @@ Frosty Zugbonk offers a teleport catalog, movement controls, world tracking, gam
 > Unofficial independent project. Not affiliated with or endorsed by Blizzard Entertainment. Using third-party tools with a game may be subject to the game's own rules and terms.
 > 
 ## Features
-• Teleport Manager & Hacks: Instant XYZ coordinate teleportation across 1,042+ preset locations (cities, dungeons, raids, battlegrounds).
-• Movement Cheats: Adjustable run, fly, and swim speed multipliers, plus wall-climbing and no-clip toggles.
-• Multi-Client & Multibox Control: Manage multiple WoW 3.3.5a (12340) windows by character name or broadcast commands to all clients at once.
-• World Tracking: Full minimap tracking for creatures, herbs, veins, and objects.
+
+- **Teleport Manager & Hacks:** Instant XYZ coordinate teleportation, a built-in catalog of 1,042 locations across World of Warcraft, and customizable saved destinations. Includes location management, searching, filtering, importing, and exporting.
+
+- **Movement Cheats & Hacks:** Adjustable run, fly, and swim speed multipliers, plus Walk on Water, Wall Climb, AirJump, and Fly Through Textures (no-clip) functionality.
+
+- **Multi-Client Control:** Manage individual World of Warcraft 3.3.5a (build 12340) game clients by character name or apply the same cheat settings to multiple running WoW clients simultaneously. Each character remains independently controllable.
+
+- **Creature & Object Tracking:** Enhanced in-game minimap tracking for creatures, herbs, minerals, treasure chests, fishing nodes, and other world objects.
+
+- **NPC Services & Quest Tracking:** Track repair vendors, trainers, auctioneers, bankers, mailboxes, flight masters, and other NPC services. Includes tracking for low-level quests.
+
+- **Portable & Offline-First:** Lightweight native Windows application requiring no installation, account registration, activation, or mandatory internet connection.
 
 ## Build
 
